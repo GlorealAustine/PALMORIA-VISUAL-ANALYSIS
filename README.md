@@ -136,8 +136,6 @@ The dashboard includes the following sections:
 
 ## Recommendations
 
-## Recommendations
-
 1. Review & Adjust Salary Bands  
    Raise pay in underperforming regions/departments to meet targets.
 
