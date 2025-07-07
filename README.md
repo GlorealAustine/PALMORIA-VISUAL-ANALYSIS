@@ -12,4 +12,21 @@ The bonus rules : this contains the rule for making payments to the employees in
 
 The bonus mapping: This contains the rule for making payments to the employees in the company and their work rating
 
+#### PROBLEM STATEMENT
+
+1. What is the gender distribution in the organization? Distil to regions and departments
+
+2. Show insights on ratings based on gender
+
+3. Analyse the company’s salary structure. Identify if there is a gender pay gap. If there is, identify the department and regions that should be the focus of management
+
+4. A recent regulation was adopted which requires manufacturing companies to pay employees a minimum of $90,000
+
+   • Does Palmoria meet this requirement?  
+   • Show pay distribution of employees grouped by a band of $10,000. For example;  
+   • How many employees fall into a band of $10,000 - $20,000, $20,000 -$30,000, etc.?  
+   • Also visualize this by regions
+
+   
+
 
