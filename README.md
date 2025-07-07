@@ -35,6 +35,8 @@ The Palmoria Group manufacturing company gave out a data set of 3 different tabl
 
 The Palmoria Group manufacturing company gave out a data set of 3 different tables which are the Palmoria Group emp-data, bonus rules and the bonus mapping. The Palmoria Group emp-data consists of 6 columns and 1016 rows, the Bonus rules and the bonus mapping consists of 13 rows and 6 columns. Palmoria Group emp-data tables contains a range of the employees details related to the Palmoria company staffs, such as Employees name, Gender, department, salary, location and rating While the bonus rules and mappings which are the same  consists of the department and the ratings i.e. very poor, poor, very good, good and average.
 
+
+
    
 
 
