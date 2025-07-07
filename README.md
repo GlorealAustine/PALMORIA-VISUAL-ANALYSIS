@@ -152,6 +152,7 @@ The dashboard includes the following sections:
 
 
 ![Dashboard Screenshot](images/dashboard.png)
+![Uploading PALMORA GROUP HR ANALYTIC DASHBOARD.jpeg…]()
 
 ---
 
