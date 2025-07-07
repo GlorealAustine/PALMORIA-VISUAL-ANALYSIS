@@ -1,6 +1,28 @@
-##### PALMORIA-VISUAL-ANALYSIS
+#### PALMORA GROUP HR ANALYTIC DASHBOARD
 
-#### INTRODUCTION 
+## Table of Contents
+
+• [About the Project](#about-the-project) 
+• [Objective](#objective)  
+• [Data Source](#data-source)  
+• [Tools Used](#tools-used)  
+• [Data Cleaning & Modeling](#data-cleaning--modeling)  
+• [Dashboard Overview](#dashboard-overview)  
+• [Key Insights](#key-insights)  
+• [Conclusion](#conclusion)  
+• [Recommendations](#recommendations)  
+• [Screenshots](#screenshots)  
+• [Author](#author)
+
+---
+
+## About the Project
+
+This project is a Human Resources (HR) analytics dashboard developed to help Palmoria Group evaluate and understand their employee salary structure, gender distribution, and bonus distribution. It also investigates the gender pay gap and provides data-driven recommendations for strategic HR decisions.
+
+## PALMORA GROUP HR ANALYTIC DASHBOARD
+
+## INTRODUCTION 
 
 Palmoria Group is a manufacturing company based in Nigeria that has an embroided issues about gender inequality in its 3 regions where there businesses are located. Unfortunately, the media recently published in the news with the headline “Palmoria, the Manufacturing Patriarchy” this doesn’t look good to the owner of the business on their ambition to scale the business to other regions and even overseas. Disclaimer: All datasets and reports do not represent any company, institution or country, but just a dummy datasets to demonstrate capabilities of Power BI
 
@@ -12,7 +34,7 @@ The bonus rules : this contains the rule for making payments to the employees in
 
 The bonus mapping: This contains the rule for making payments to the employees in the company and their work rating
 
-#### PROBLEM STATEMENT
+## PROBLEM STATEMENT
 
 1. What is the gender distribution in the organization? Distil to regions and departments
 
@@ -27,72 +49,116 @@ The bonus mapping: This contains the rule for making payments to the employees i
    • How many employees fall into a band of $10,000 - $20,000, $20,000 -$30,000, etc.?  
    • Also visualize this by regions
 
-#### DATA DESCRIPTION
+---
 
-The Palmoria Group manufacturing company gave out a data set of 3 different tables which are; the Palmoria Group emp-data, bonus rules and the bonus mapping. The bonus mapping and bonus rules consists of 12 rows and 6 columns while the DSF_emp_data consists of 6 columns and 1015 rows.. The DSF_emp_data tables contains a range of the employees details related to the Palmoria company staffs, such as Employees name, Gender, department, salary, location and rating While the bonus rules and mappings which are the same consist of 12 rows and 6 columns .The columns consists of the department and the ratings ie very poor, poor, very good, good and average.
+## Objective
 
-#### DATA DESCRIPION
+• Analyze the salary structure across departments and regions.  
+• Evaluate gender representation within the organization.  
+• Identify any gender pay disparities.  
+• Provide HR insights for bonus allocations and salary bands.  
+• Support decision-making with clear, interactive visuals.
 
-The Palmoria Group manufacturing company gave out a data set of 3 different tables which are the Palmoria Group emp-data, bonus rules and the bonus mapping. The Palmoria Group emp-data consists of 6 columns and 1016 rows, the Bonus rules and the bonus mapping consists of 13 rows and 6 columns. Palmoria Group emp-data tables contains a range of the employees details related to the Palmoria company staffs, such as Employees name, Gender, department, salary, location and rating While the bonus rules and mappings which are the same  consists of the department and the ratings i.e. very poor, poor, very good, good and average.
+---
 
-#### CORE DATA ANALYSIS SKILLS
+## Data Source
 
-### Data Cleaning & Preparation
+The project is based on fictional employee data provided for analysis, including:  
+• Employee demographics (Gender, Region, Department)  
+• Salary and Bonus information  
+• Performance ratings
 
-- Handling missing values in salary, ratings, or department columns
-- Replacing the empty spaces in Gender columnn with a generic term (e.g. Undisclosed)
-- Converting data types (e.g., salaries to numeric, dates, text columns)
-- Trimming and cleaning the name column to delete trailing or leading spaces
+---
 
-### Data Transformation
+## Tools Used
 
-- Creating calculated columns (e.g., bonus amounts, total pay, Average Male and Female Salary, Average Total Salary, Bonus % e.t.c)
-- Creating personcount measure which is representing the number of people in each category i am analyzing. This is Because there was no employee ID
-- Binning salaries into $10,000 bands
-- Merging datasets (e.g., employee data with bonus rules) using joins. Used BonusKey to join the Palmoria Group emp-data and the Bonus Rule data to get Many to one relationship
+• Power BI (Dashboard creation, visuals, modeling)  
+• Power Query (Data cleaning and transformation)  
+• DAX (Custom measures and KPIs)  
+• Excel (Raw data manipulation and pre-cleaning)
 
-### Exploratory Data Analysis (EDA)
+---
 
-- Analyzing gender distributions across departments and regions
-- Summarizing salary ranges and distributions
-- Showing insights based on rating
-- Analying employees salary band by regoion
-- Visualizing gap by department and region
-- Creating KPIs such as Average salry using gauge, Total employees, Total salary, Average bonus salary and Total average salary.
+## Data Cleaning & Modeling
 
-### Statistical Analysis
+• Removed duplicates and null values in Power Query.  
+• Created dimension tables for Gender, Region, Department, and Rating.  
+• Built a star schema model linking dimension tables to the Fact table.  
+• Used DAX measures to calculate:  
+  • Average Salary  
+  • Total Salary  
+  • Average Bonus  
+  • Gender counts  
+  • Salary band distributions  
+  • Salary gap by gender and region
 
-- Comparing average salaries between genders → helps detect pay gaps
-- Calculating proportions of employees below or above the $90,000 threshold
-- Aggregating bonus payouts by gender
+---
 
-### Data Visualization
+## Dashboard Overview
 
-- Creating Stacked column charts of gender distribution by department and clustered bar chart for region
-- Using clustered bar chart for salary bands
-- Designing dashboards or summary visuals for management insights
+The dashboard includes the following sections:  
+• Average Salary Gauge  
+• Total Employees  
+• Total Salary and Bonus  
+• Gender Distribution (Department & Region)  
+• Bonus Distribution by Gender  
+• Salary Bands by Region  
+• Ratings based on Gender  
+• Salary Gap by Department & Region  
+• Employee Pay Summary Table
 
-### Compliance & Business Rule Checks
+---
 
-- Evaluating whether all employees earn at least $90,000
-- Highlighting departments or regions not meeting regulatory requirements
+## Key Insights
 
-### Data Interpretation & Communication
+• Average salary across the company is ₦73.7K, below the target benchmark of ₦90K.  
+• Gender distribution is fairly balanced across most departments.  
+• Female employees slightly out-perform male counterparts in bonus received (₦1.06M vs ₦1.03M).  
+• The ‘Average’ rating is the most common, especially among both male and female staff.  
+• Some departments (e.g., Marketing, Accounting) show noticeable salary variations by region.
 
-- Translating findings into actionable recommendations
-- Writing clear documentation (e.g., your problem statement, README)
-- Presenting insights to stakeholders (graphs, tables, narratives)
+---
 
-### Tools & Techniques Likely Used
-- Power BI for cleaning, EDA, calculations, and visuals  
-- Formulas like `DAX` for dynamic calculations (e.g., bonuses),`IF`
-- Charts (bar, pie, gauge) for distributions and comparisons  
+## Conclusion
 
-  
+• The organization demonstrates near parity in gender distribution and bonus payments.  
+• There is no significant gender pay gap at an aggregate level.  
+• Salary structure, however, needs realignment as the average is still below the expected target of ₦90K.  
+• Regional salary differences are evident and should be reviewed.
+
+---
+
+## Recommendations
+
+1. Review & Adjust Salary Bands 
+   Raise pay in underperforming regions/departments to meet targets.
+
+2. Promote Gender Diversity in Key Roles  
+   Encourage balance in departments like Marketing and Engineering.
+
+3. Align Bonuses with Performance Ratings 
+   Reward “Very Good” and “Excellent” more clearly to drive better outcomes.
+
+4. Eliminate Undisclosed Gender Entries 
+   Improve data quality with mandatory reporting fields.
+
+5. Monitor Salary Equity Continuously 
+   Run quarterly analytics to detect emerging gaps.
+
+---
+
+## Screenshots
 
 
 
+![Dashboard Screenshot](images/dashboard.png)
 
-   
+---
+
+## Author
+
+Augustine Glory Chinyere
+Data Anaylst | Power BI Ethusiast
+Email: glorealaustine@gmail.com
 
 
