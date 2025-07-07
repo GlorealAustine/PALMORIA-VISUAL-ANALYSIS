@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-• [About the Project](#about-the-project)
+• [About the Project](#about-the-project)  
 • [Objective](#objective)  
 • [Data Source](#data-source)  
 • [Tools Used](#tools-used)  
