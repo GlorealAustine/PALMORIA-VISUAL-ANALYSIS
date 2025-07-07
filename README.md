@@ -1,4 +1,4 @@
-## PALMORA GROUP HR ANALYTIC DASHBOARD
+### PALMORA GROUP HR ANALYTIC DASHBOARD
 
 
 ## Table of Contents
@@ -162,12 +162,13 @@ The dashboard includes the following sections:
 
 ## Author
 
-Augustine Glory Chinyere
-Data Anaylst | Power BI Ethusiast
-Email:    glorealaustine@gmail.com
-Linkedin: www.linkedin.com/in/glory-augustine-6a7623162
-X:        https://x.com/glowluxestores?s=21
-Tiktok:   https://www.tiktok.com/@gloreal.austine?_t=ZM-8xpv5Q1bByS&_r=1
+# Augustine Glory Chinyere  
+**Data Analyst | Power BI Enthusiast**
+
+- Email: glorealaustine@gmail.com  
+- LinkedIn: [www.linkedin.com/in/glory-augustine-6a7623162](https://www.linkedin.com/in/glory-augustine-6a7623162)  
+- X (formerly Twitter): [https://x.com/glowluxestores?s=21](https://x.com/glowluxestores?s=21)  
+- TikTok: [https://www.tiktok.com/@gloreal.austine?_t=ZM-8xpv5Q1bByS&_r=1](https://www.tiktok.com/@gloreal.austine?_t=ZM-8xpv5Q1bByS&_r=1)
 
 
 
