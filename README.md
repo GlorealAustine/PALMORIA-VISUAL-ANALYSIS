@@ -166,9 +166,4 @@ The dashboard includes the following sections:
 **Data Analyst | Power BI Enthusiast**
 
 - Email: glorealaustine@gmail.com  
-- LinkedIn: [www.linkedin.com/in/glory-augustine-6a7623162](https://www.linkedin.com/in/glory-augustine-6a7623162)  
-- X (formerly Twitter): [https://x.com/glowluxestores?s=21](https://x.com/glowluxestores?s=21)  
-- TikTok: [https://www.tiktok.com/@gloreal.austine?_t=ZM-8xpv5Q1bByS&_r=1](https://www.tiktok.com/@gloreal.austine?_t=ZM-8xpv5Q1bByS&_r=1)
-
-
 
