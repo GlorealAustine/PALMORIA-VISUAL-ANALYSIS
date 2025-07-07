@@ -27,6 +27,14 @@ The bonus mapping: This contains the rule for making payments to the employees i
    • How many employees fall into a band of $10,000 - $20,000, $20,000 -$30,000, etc.?  
    • Also visualize this by regions
 
+#### DATA DESCRIPTION
+
+The Palmoria Group manufacturing company gave out a data set of 3 different tables which are; the Palmoria Group emp-data, bonus rules and the bonus mapping. The bonus mapping and bonus rules consists of 12 rows and 6 columns while the DSF_emp_data consists of 6 columns and 1015 rows.. The DSF_emp_data tables contains a range of the employees details related to the Palmoria company staffs, such as Employees name, Gender, department, salary, location and rating While the bonus rules and mappings which are the same consist of 12 rows and 6 columns .The columns consists of the department and the ratings ie very poor, poor, very good, good and average.
+
+#### DATA DESCRIPION
+
+The Palmoria Group manufacturing company gave out a data set of 3 different tables which are the Palmoria Group emp-data, bonus rules and the bonus mapping. The Palmoria Group emp-data consists of 6 columns and 1016 rows, the Bonus rules and the bonus mapping consists of 13 rows and 6 columns. Palmoria Group emp-data tables contains a range of the employees details related to the Palmoria company staffs, such as Employees name, Gender, department, salary, location and rating While the bonus rules and mappings which are the same  consists of the department and the ratings i.e. very poor, poor, very good, good and average.
+
    
 
 
