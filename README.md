@@ -136,19 +136,21 @@ The dashboard includes the following sections:
 
 ## Recommendations
 
-1. Review & Adjust Salary Bands 
+## Recommendations
+
+1. Review & Adjust Salary Bands  
    Raise pay in underperforming regions/departments to meet targets.
 
-2. Promote Gender Diversity in Key Roles  
+2. Promote Gender Diversity in Key Roles 
    Encourage balance in departments like Marketing and Engineering.
 
-3. Align Bonuses with Performance Ratings 
+3. Align Bonuses with Performance Ratings  
    Reward “Very Good” and “Excellent” more clearly to drive better outcomes.
 
 4. Eliminate Undisclosed Gender Entries 
    Improve data quality with mandatory reporting fields.
 
-5. Monitor Salary Equity Continuously 
+5. Monitor Salary Equity Continuously  
    Run quarterly analytics to detect emerging gaps.
 
 ---
