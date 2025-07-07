@@ -149,8 +149,6 @@ The dashboard includes the following sections:
 
 ## Screenshots
 
-
-
 ![Dashboard Screenshot](images/dashboard.png)
 ![PALMORA GROUP HR ANALYTIC DASHBOARD](https://github.com/user-attachments/assets/5067d7fe-b4f8-4e85-9f36-cfa897ff4624)
 
@@ -160,6 +158,10 @@ The dashboard includes the following sections:
 
 Augustine Glory Chinyere
 Data Anaylst | Power BI Ethusiast
-Email: glorealaustine@gmail.com
+Email:    glorealaustine@gmail.com
+Linkedin: www.linkedin.com/in/glory-augustine-6a7623162
+X:        https://x.com/glowluxestores?s=21
+Tiktok:   https://www.tiktok.com/@gloreal.austine?_t=ZM-8xpv5Q1bByS&_r=1
+
 
 
