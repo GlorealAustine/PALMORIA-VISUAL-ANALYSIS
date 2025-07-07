@@ -27,11 +27,18 @@ Palmoria Group is a manufacturing company based in Nigeria that has an embroided
 
 This documentation outlines the data cleaning process for the Palmoria Group HR Analysis. Three sets of data was given to work on and to know about the issues the company is currently facing. The datasets are given below;
 
-The Palmoria Group emp-data: this contains the employees details I looked into the data set and the data cleaning process was completed using Power Query, a powerful data transformation tool and I analyzed and generate an insights the management team need to address
+- The Palmoria Group emp-data: 
+  a. This contains the employees details.  
+  b. I looked into the data set and the data cleaning process was completed using Power Query, a powerful data transformation tool.  
+  c. I analyzed and generated insights the management team need to address.
 
-The bonus rules : this contains the rule for making payments to the employees in the company and their work rating
+- The Bonus rules: 
+  a. This contains the rule for making payments to the employees in the company.  
+  b. It includes their work rating.
 
-The bonus mapping: This contains the rule for making payments to the employees in the company and their work rating
+- The Bonus mapping: 
+  a. This contains the rule for making payments to the employees in the company.  
+  b. It includes their work rating.
 
 ## PROBLEM STATEMENT
 
