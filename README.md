@@ -162,7 +162,7 @@ The dashboard includes the following sections:
 
 ## Author
 
-# Augustine Glory Chinyere  
+## Augustine Glory Chinyere  
 **Data Analyst | Power BI Enthusiast**
 
 - Email: glorealaustine@gmail.com  
