@@ -38,10 +38,56 @@ The Palmoria Group manufacturing company gave out a data set of 3 different tabl
 #### CORE DATA ANALYSIS SKILLS
 
 ### Data Cleaning & Preparation
+
 - Handling missing values in salary, ratings, or department columns
 - Replacing the empty spaces in Gender columnn with a generic term (e.g. Undisclosed)
 - Converting data types (e.g., salaries to numeric, dates, text columns)
 - Trimming and cleaning the name column to delete trailing or leading spaces
+
+### Data Transformation
+
+- Creating calculated columns (e.g., bonus amounts, total pay, Average Male and Female Salary, Average Total Salary, Bonus % e.t.c)
+- Creating personcount measure which is representing the number of people in each category i am analyzing. This is Because there was no employee ID
+- Binning salaries into $10,000 bands
+- Merging datasets (e.g., employee data with bonus rules) using joins. Used BonusKey to join the Palmoria Group emp-data and the Bonus Rule data to get Many to one relationship
+
+### Exploratory Data Analysis (EDA)
+
+- Analyzing gender distributions across departments and regions
+- Summarizing salary ranges and distributions
+- Showing insights based on rating
+- Analying employees salary band by regoion
+- Visualizing gap by department and region
+- Creating KPIs such as Average salry using gauge, Total employees, Total salary, Average bonus salary and Total average salary.
+
+### Statistical Analysis
+
+- Comparing average salaries between genders → helps detect pay gaps
+- Calculating proportions of employees below or above the $90,000 threshold
+- Aggregating bonus payouts by gender
+
+### Data Visualization
+
+- Creating Stacked column charts of gender distribution by department and clustered bar chart for region
+- Using clustered bar chart for salary bands
+- Designing dashboards or summary visuals for management insights
+
+### Compliance & Business Rule Checks
+
+- Evaluating whether all employees earn at least $90,000
+- Highlighting departments or regions not meeting regulatory requirements
+
+### Data Interpretation & Communication
+
+- Translating findings into actionable recommendations
+- Writing clear documentation (e.g., your problem statement, README)
+- Presenting insights to stakeholders (graphs, tables, narratives)
+
+### Tools & Techniques Likely Used
+- Power BI for cleaning, EDA, calculations, and visuals  
+- Formulas like `DAX` for dynamic calculations (e.g., bonuses),`IF`
+- Charts (bar, pie, gauge) for distributions and comparisons  
+
   
 
 
