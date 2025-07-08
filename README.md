@@ -1,20 +1,20 @@
 ### PALMORA GROUP HR ANALYTIC DASHBOARD
 
 
-## Table of Contents
+## 📑 Table of Contents
 
-• [About the Project](#about-the-project)  
-• [Objective](#objective)  
-• [Data Source](#data-source)  
-• [Tools Used](#tools-used)  
-• [Data Cleaning & Modeling](#data-cleaning--modeling)  
-• [Dashboard Overview](#dashboard-overview)  
-• [Key Insights](#key-insights)  
-• [Conclusion](#conclusion)  
-• [Recommendations](#recommendations)  
-• [Screenshots](#screenshots)
-• [Deliverables](#link)
-• [Author](#author)
+- [About the Project](#about-the-project)  
+- [Objective](#objective)  
+- [Data Source](#data-source)  
+- [Tools Used](#tools-used)  
+- [Data Cleaning & Modeling](#data-cleaning--modeling)  
+- [Dashboard Overview](#dashboard-overview)  
+- [Key Insights](#key-insights)  
+- [Conclusion](#conclusion)  
+- [Recommendations](#recommendations)  
+- [Screenshots](#screenshots)  
+- [Deliverables](#deliverables)  
+- [Author](#author)
 
 ---
 
