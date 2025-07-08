@@ -156,7 +156,8 @@ The dashboard includes the following sections:
 ## Screenshots
 
 ![Dashboard Screenshot](images/dashboard.png)
-![Uploading PALMORA GROUP HR ANALYTIC DASHBOARD (2).jpeg…]()
+
+![PALMORA GROUP HR ANALYTIC DASHBOARD (2)](https://github.com/user-attachments/assets/20065a74-21b7-45e2-a426-396fd6eef1d2)
 
 ## Delivearbles
 
