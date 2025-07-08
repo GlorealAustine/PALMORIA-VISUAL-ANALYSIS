@@ -160,11 +160,7 @@ The dashboard includes the following sections:
 
 ## Delivearbles
 
-Link To Interactive Dashboard : [https://app.powerbi.com/view?r=eyJrIjoiZTMxMTE4MzktZjhjNC00NTA0LWJlMDItNTk3ZjcxNTI0MTIzIiwidCI6IjgyMjU5N2NkLTQ1ZTYtNDEzMS1hM2JkLTNiNWUwZTFhNzI0MyJ9
-
-https://drive.google.com/file/d/1oK0EJoaT6KuJB0P5E9MYvQiJQXAsufNW/view?usp=drive_link](https://drive.google.com/file/d/1oK0EJoaT6KuJB0P5E9MYvQiJQXAsufNW/view?usp=drive_link)
-
----
+Link To Interactive Dashboard : https://drive.google.com/file/d/1oK0EJoaT6KuJB0P5E9MYvQiJQXAsufNW/view?usp=drive_link
 
 ## Author
 
