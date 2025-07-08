@@ -158,6 +158,12 @@ The dashboard includes the following sections:
 ![Dashboard Screenshot](images/dashboard.png)
 ![PALMORA GROUP HR ANALYTIC DASHBOARD](https://github.com/user-attachments/assets/5067d7fe-b4f8-4e85-9f36-cfa897ff4624)
 
+## Delivearbles
+
+Link To Interactive Dashboard : [https://app.powerbi.com/view?r=eyJrIjoiZTMxMTE4MzktZjhjNC00NTA0LWJlMDItNTk3ZjcxNTI0MTIzIiwidCI6IjgyMjU5N2NkLTQ1ZTYtNDEzMS1hM2JkLTNiNWUwZTFhNzI0MyJ9
+
+https://drive.google.com/file/d/1oK0EJoaT6KuJB0P5E9MYvQiJQXAsufNW/view?usp=drive_link](https://drive.google.com/file/d/1oK0EJoaT6KuJB0P5E9MYvQiJQXAsufNW/view?usp=drive_link)
+
 ---
 
 ## Author
