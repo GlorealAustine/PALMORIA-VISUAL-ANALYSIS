@@ -12,7 +12,8 @@
 • [Key Insights](#key-insights)  
 • [Conclusion](#conclusion)  
 • [Recommendations](#recommendations)  
-• [Screenshots](#screenshots)  
+• [Screenshots](#screenshots)
+• [Deliverables](#link)
 • [Author](#author)
 
 ---
@@ -29,16 +30,10 @@ This documentation outlines the data cleaning process for the Palmoria Group HR 
 
 - The Palmoria Group emp-data: 
   a. This contains the employees details.  
-  b. I looked into the data set and the data cleaning process was completed using Power Query, a powerful data transformation tool.  
-  c. I analyzed and generated insights the management team need to address.
 
 - The Bonus rules: 
   a. This contains the rule for making payments to the employees in the company.  
-  b. It includes their work rating.
-
-- The Bonus mapping: 
-  a. This contains the rule for making payments to the employees in the company.  
-  b. It includes their work rating.
+  b. It includes their work rating same as the bonus mapping
 
 ## PROBLEM STATEMENT
 
